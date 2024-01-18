@@ -1,4 +1,5 @@
 # Official YOLOv7
+(以下为参照https://github.com/WongKinYiu/yolov7?tab=readme-ov-file所完成)
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
